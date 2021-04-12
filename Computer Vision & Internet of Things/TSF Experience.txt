@@ -1,8 +1,0 @@
-1. Wrote codes to collect, crunch and analyze data from internal and external sources.
-2. Built and tuned various machine learning models using Python, and scikit-learn.
-3. Created linkages between various data to enable predictive modeling and trend analysis on a given dataset.
-4. Did Exploratory Data Analysis using various python libraries to analyze data, find important patterns, and design visualization on the given dataset.
-5. Did multiple Data Sciennce and Machine Learning task assigned to me within the deadline.
-6. Built various Machine Learning and NLP based projects such as Stock prediction using Numerical and Sentiment Analysis on Textual data.
-7. Explored and did the task from others domain i.e. Computer Vision & Internet of Things to gain more hands-on knowledge on it.
-8. Built various Deep Learning and Computer Vision based projects such as face mask detection in an image/video, recognition of traffic sign which is one of the most important aspect that is used in smart or self-driving cars.
